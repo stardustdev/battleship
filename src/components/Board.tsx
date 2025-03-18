@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { shipData } from '../constants/shipData';
+import { shipData } from '../constants/shipdata';
 
 import Cell from './Cell';
 
